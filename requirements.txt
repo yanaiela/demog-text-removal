@@ -1,0 +1,8 @@
+click
+pandas
+numpy
+docopt
+sklearn
+tensorboard_logger
+tqdm
+tweepy
