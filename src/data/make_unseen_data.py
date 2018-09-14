@@ -13,7 +13,7 @@ from data_handler import read_files
 SEED = 16
 
 
-df = get_data(project + '/data/interim/twits_race_gender.tsv')
+df = get_data(project + '/path/to/downloaded/twitteraae_all')
 
 emotions = happy + sad
 cleaned = df[~df.text.str.contains('|'.join(emotions))]
