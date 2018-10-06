@@ -7,7 +7,7 @@
 This is the code used in the paper:
 
 **"Adversarial Removal of Demographic Attributes from Text Data"**
-Yanai Elazar and Yoav Goldberg. EMNLP 2018. [Paper]()
+Yanai Elazar and Yoav Goldberg. EMNLP 2018. [Paper](https://arxiv.org/pdf/1808.06640.pdf)
 
 
 ### Prerequisites
