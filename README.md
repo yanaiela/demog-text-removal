@@ -24,7 +24,11 @@ pip install -r requirements.txt
 # install dynet version out of my branch
 git clone git@github.com:yanaiela/dynet.git
 
-# now follow the manual source installation of dynet
+# checkout to the relevant commit
+git checkout 5c2a49f595a2a1e286609f348977b714b2db12a1
+
+# now follow the manual source installation of dynet in:
+# https://dynet.readthedocs.io/en/latest/python.html
 ```
 
 
